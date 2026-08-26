@@ -1,10 +1,10 @@
-# Hi, I'm Whogi! 
+# Hi, I'm Evan/Whogi! 
 
-Hey, I'm Whogi, a freelance web developer and computer science student currently in college. I have a strong passion for coding and system administration, and I love bringing ideas to life on the web. My primary stack is MERN (MySQL/MongoDB, Express.js, React, Node.js). When I’m not building websites or managing systems, you’ll likely find me gaming or sharpening my skills through freelance work and side projects.
+Hey, I'm Whogi, a freelance web developer, system administrator, and computer science student. I'm passionate about coding and system administration, and I love bringing ideas to life on the web. My primary stack is MERN (MySQL/MongoDB, Express.js, React, Node.js). When I’m not building websites or managing systems, you’ll likely find me gaming or sharpening my skills through freelance work and side projects.
 
-![Whogivsachit's Stats](https://github-readme-stats-fast.vercel.app/api?username=WhogiTheRaccoon&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![Whogivsachit's Stats](https://github-readme-stats-fast.vercel.app/api?username=Evanm-Whogi&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
-![Whogivsachit's Github Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=WhogiTheRaccoon&layout=compact&theme=dark&hide_border=true&count_private=true)
+![Whogivsachit's Github Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Evanm-Whogi&layout=compact&theme=dark&hide_border=true&count_private=true)
 
 ## About Me
 
@@ -12,7 +12,7 @@ Hey, I'm Whogi, a freelance web developer and computer science student currently
 - I build using the MERN stack (MySQL/MongoDB, Express.js, React, Node.js). 
 - I enjoy playing Video Games as well as freelance Web Development and System Administration in my free time.
 - I'm a huge weeb and love watching anime and reading manga.
-- Raccoons are the best animal and no one can change my mind.
+- Raccoons are the best animal, and no one can change my mind.
 
 ## My Skills
 
@@ -25,7 +25,7 @@ Hey, I'm Whogi, a freelance web developer and computer science student currently
    I provide technical support and backend operations for the company, managing a wide range of responsibilities from handling sales, support, and abuse tickets to performing system administration tasks such as live migrations, upgrades, IP assignments, ISO mounting, and system reinstallations. Beyond day‑to‑day support, I contribute to projects like software installation, documentation, and other specialized assignments.
 
 - ### CloudNoden (Nov 2023 - Present)
-    I played a pivotal role in the upkeep and management of servers and networking infrastructure, overseeing a range of critical systems including Pterodactyl, WHMCS, Virtfusion, Proxmox, PBS, and other essential components.
+   I played a pivotal role in the upkeep and management of servers and networking infrastructure, overseeing a range of critical systems including Pterodactyl, WHMCS, Virtfusion, Proxmox, PBS, and other essential components. I also developed and maintained the company's website and other internal tools.
 
 - ### Frohost (Nov 2018 - May 2019)
     I oversaw the Support Team and spearheaded the development of several systems to enhance user experience. This included creating a comprehensive Pterodactyl theme and implementing a custom ticketing system.
