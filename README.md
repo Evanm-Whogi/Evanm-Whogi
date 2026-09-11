@@ -40,3 +40,5 @@ Hey, I'm Whogi, a freelance web developer, system administrator, and computer sc
 - Connect with me on [Discord](https://discordapp.com/users/202967961298927616) Message me why your adding.
 - Send me an [Email](email:contact@chit.sh)
 - Add me on [Steam](https://steamcommunity.com/id/Whogi) I'd love to play a game sometime!
+
+![](https://komarev.com/ghpvc/?username=Evanm-Whogi&color=grey)
