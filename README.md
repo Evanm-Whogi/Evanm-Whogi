@@ -16,8 +16,6 @@ Hey, I'm Whogi, a freelance web developer, system administrator, and computer sc
 - I'm a freelance web developer with a passion for coding and system administration.
 - I build using the MERN stack (MySQL/MongoDB, Express.js, React, Node.js). 
 - I enjoy playing Video Games as well as freelance Web Development and System Administration in my free time.
-- I'm a huge weeb and love watching anime and reading manga.
-- Raccoons are the best animal, and no one can change my mind.
 
 ## My Skills
 
