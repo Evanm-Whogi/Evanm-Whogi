@@ -3,12 +3,12 @@
 Hey, I'm Whogi, a freelance web developer, system administrator, and computer science student. I'm passionate about coding and system administration, and I love bringing ideas to life on the web. My primary stack is MERN (MySQL/MongoDB, Express.js, React, Node.js). When I’m not building websites or managing systems, you’ll likely find me gaming or sharpening my skills through freelance work and side projects.
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Evanm-Whogi&theme=github_dark" />
+  <img src="https://readme-cards-phi.vercel.app/api/cards/profile-details?username=Evanm-Whogi&theme=github_dark" />
 </p>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Evanm-Whogi&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Evanm-Whogi&theme=github_dark" />
+  <img src="https://readme-cards-phi.vercel.app/api/cards/stats?username=Evanm-Whogi&theme=github_dark" />
+  <img src="https://readme-cards-phi.vercel.app/api/cards/most-commit-language?username=Evanm-Whogi&theme=github_dark" />
 </div>
 
 ## About Me
